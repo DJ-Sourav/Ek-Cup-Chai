@@ -1,0 +1,37 @@
+/* .container-fluid{
+    margin-left: 120px;
+
+} */
+.memos-container {
+    text-align: center;
+    padding: 20px;
+}
+
+.memos-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+.memos-table td {
+    background-color: dodgerblue;
+    border: 1px solid white;
+    padding: 7px;
+    color: white;
+}
+
+.name-column {
+    width: 100px;
+}
+
+.timestamp-column {
+    width: 800px;
+}
+
+.message-column {
+    width: 300px;
+}
+
+.from-column {
+    width: 400px;
+}

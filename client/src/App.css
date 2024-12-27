@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.account-container {
+  display: inline-block;
+  background-color: #f0f0f0;
+  border: 2px solid dodgerblue;
+  border-radius: 10px;
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.account-label {
+  font-weight: bold;
+  color: #333;
+  margin-right: 10px;
+}
+
+.account-address {
+  color: black;
+  font-family: monospace;
+  word-break: break-middle;
+  max-width: 300px;
+  display: inline-block;
+}
